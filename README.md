@@ -5,7 +5,7 @@
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=codingliterature.com&tab=desktop)<br/>
 [Google Analytics](https://analytics.google.com/)<br/>
 [WebPageTest](http://www.webpagetest.org/) <br/>
-[Seoptimer](http://www.seoptimer.com/codingliterature.com)
+[Seoptimer](http://www.seoptimer.com/codingliterature.com)<br/>
 [Cloudflare](https://www.cloudflare.com/)
 
 ### Some Good Resources:
