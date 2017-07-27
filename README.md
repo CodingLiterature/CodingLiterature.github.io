@@ -13,9 +13,10 @@
 http://garthdb.com/writings/i-am-a-jekyll-god/
 
 ### Performance Data 
-| Date     | Mobile Score | Desktop Score | SEO       | Perf      | UI/Mobile | Social | Security |  Comment          |
-| -------- | -----------: | ------------: | --------: | --------: | --------: | -----: | -------: | :---------------- |
-| 27-07-17 | 73           | 88            | A-        | D         | C+        | B+     | A+       |  Cloudfare Paused |
+| Date     | Mobile Score | Desktop Score | SEO       | Perf      | UI/Mobile | Social | Security |  Comment           |
+| -------- | -----------: | ------------: | --------: | --------: | --------: | -----: | -------: | :----------------  |
+| 27-07-17 | 73           | 88            | A-        | D         | C+        | B+     | A+       |  Cloudfare Paused  |
+| 27-07-17 | 71           | 86            | C+        | B         | A+        | F-     | C        |  Cloudfare resumed |
 
 ### Acknowledgement:
 Following github projects are used to build this site.<br/>
