@@ -3,6 +3,7 @@
 
 ### Optimization and Management Tools
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=codingliterature.com&tab=desktop)<br/>
+[Google Search Console](https://www.google.com/webmasters/tools/home?hl=en)<br/>
 [Google Analytics](https://analytics.google.com/)<br/>
 [WebPageTest](http://www.webpagetest.org/) <br/>
 [Seoptimer](http://www.seoptimer.com/codingliterature.com)<br/>
