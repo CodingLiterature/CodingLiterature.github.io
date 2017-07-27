@@ -10,6 +10,9 @@
 ### Some Good Resources:
 http://garthdb.com/writings/i-am-a-jekyll-god/
 
+### Changes
+Nameservers changed. Original ones were ns71.domaincontrol.com and ns72.domaincontrol.com
+
 ### Acknowledgement:
 Following github projects are used to build this site.<br/>
 https://github.com/mdo <br/>
