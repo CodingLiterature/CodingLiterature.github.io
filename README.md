@@ -5,6 +5,7 @@
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=codingliterature.com&tab=desktop)<br/>
 [Google Analytics](https://analytics.google.com/)<br/>
 [WebPageTest](http://www.webpagetest.org/)
+[Seoptimer](http://www.seoptimer.com/codingliterature.com)
 
 ### Some Good Resources:
 http://garthdb.com/writings/i-am-a-jekyll-god/
