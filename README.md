@@ -17,7 +17,7 @@ http://garthdb.com/writings/i-am-a-jekyll-god/
 | -------- | -----------: | ------------: | --------: | --------: | --------: | -----: | -------: | :----------------  |
 | 27-07-17 | 73           | 88            | A-        | D         | C+        | B+     | A+       |  Cloudfare Paused  |
 | 27-07-17 | 71           | 86            | C+        | B         | A+        | F-     | C        |  Cloudfare resumed |
-| 27-07-17 | 71           | 86            | A+        | A+        | A+        | A+     | A+       |  Cloudfare auto minify |
+| 27-07-17 | 71           | 86            | C         | B-        | A-        | F-     | C        |  Cloudfare auto minify |
 
 ### Acknowledgement:
 Following github projects are used to build this site.<br/>
