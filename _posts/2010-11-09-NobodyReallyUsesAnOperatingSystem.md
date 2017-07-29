@@ -5,7 +5,7 @@ tags: [ Thoughts ]
 comments : true
 ---
 
-The title looks quite contriversial. But in my life, I have never seen anbody using an Operating System.
+The title looks quite controversial. But in my life, I have never seen anybody using an Operating System.
 
 As wikipedia says,"An operating system (OS) is a software, consisting of programs and data, that runs on computers and manages the computer hardware and provides common services for efficient execution of various application programs".
 
