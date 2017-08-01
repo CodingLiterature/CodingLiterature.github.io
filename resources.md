@@ -3,9 +3,20 @@ layout: page
 title: Resources
 ---
 
+### C++ Standard 
+
+### Standard Papers
+
+### C++ Core Guidelines
+<a href="https://isocpp.org/" target="_blank">C++ Core Guidelines</a> are written to guide C++ programmers of all levels to write fast, readable, maintainable and sensible code. The Core guidelines are <a href="https://isocpp.org/" target="_blank">work in progress</a> with active contributions of Bjarne Stroustrup and other C++ Celebrities.
+
+### Some Good Blogs
 * <a href="https://isocpp.org/" target="_blank">Standard C++</a>
 * <a href="https://herbsutter.com/" target="_blank">Sutter's Mill</a>
 * <a href="http://www.fluentcpp.com/" target="_blank">Fluent C++</a>
 * <a href="http://foonathan.net/" target="_blank">foonathan::blog()</a>
 * <a href="http://preshing.com/" target="_blank">Preshing on Programming</a>
 * <a href="https://akrzemi1.wordpress.com/" target="_blank">Andrej's C++ Blog</a>
+
+### CppCon Videos
+
