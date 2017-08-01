@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ### C++ Standard 
-<a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf" target="_blank">Working Draft</a> of the Standard C++ is published. The Current draft is paid, and cannot be published open due to ISO licensing, but the working draft is a good reference point and contains everything that is in Current draft.
+<a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf" target="_blank">Working Draft of the Standard C++</a> is published. The Current draft is paid, and cannot be published open due to ISO licensing, but the working draft is a good reference point and contains everything that is in Current draft.
 
 ### Standard Papers
 
