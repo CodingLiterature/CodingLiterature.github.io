@@ -8,7 +8,7 @@ title: Resources
 ### Standard Papers
 
 ### C++ Core Guidelines
-<a href="https://isocpp.org/" target="_blank">C++ Core Guidelines</a> are written to guide C++ programmers of all levels to write fast, readable, maintainable and sensible code. The Core guidelines are <a href="https://isocpp.org/" target="_blank">work in progress</a> with active contributions of Bjarne Stroustrup and other C++ Celebrities.
+<a href="http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines" target="_blank">C++ Core Guidelines</a> are written to guide C++ programmers of all levels to write fast, readable, maintainable and sensible code. The Core guidelines are <a href="https://github.com/isocpp/CppCoreGuidelines" target="_blank">work in progress</a> with active contributions of <a href="http://www.stroustrup.com/" target="_blank">Bjarne Stroustrup</a> and other C++ Celebrities.
 
 ### Some Good Blogs
 * <a href="https://isocpp.org/" target="_blank">Standard C++</a>
@@ -19,4 +19,6 @@ title: Resources
 * <a href="https://akrzemi1.wordpress.com/" target="_blank">Andrej's C++ Blog</a>
 
 ### CppCon Videos
+
+
 
