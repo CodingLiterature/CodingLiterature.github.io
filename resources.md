@@ -23,7 +23,7 @@ All <a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/" target="_blank
 * <a href="http://foonathan.net/" target="_blank">foonathan::blog()</a>
 * <a href="http://preshing.com/" target="_blank">Preshing on Programming</a>
 * <a href="https://akrzemi1.wordpress.com/" target="_blank">Andrej's C++ Blog</a>
-* <a href="https://www.youtube.com/watch?v=r-5WQdQL8NQ&t=49s" target="_blank">Bartek's Coding Blog</a>
+* <a href="http://www.bfilipek.com/" target="_blank">Bartek's Coding Blog</a>
 
 ### CppCon Videos
 
