@@ -28,6 +28,5 @@ All <a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/" target="_blank
 
 ### CppCon Videos
 * <a href="https://youtu.be/nXaxk27zwlk" target="_blank">CppCon 2015: Chandler Carruth "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!</a>
-https://www.youtube.com/watch?v=nXaxk27zwlk&t=203s
 
 
