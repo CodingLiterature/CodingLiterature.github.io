@@ -26,6 +26,7 @@ All <a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/" target="_blank
 * <a href="http://www.bfilipek.com/" target="_blank">Bartek's C++ Blog</a>
 * <a href="http://igoro.com/archive/gallery-of-processor-cache-effects/" target="_blank">Igor Ostrovsky Blog</a>
 * <a href="https://abseil.io/tips/" target="_blank">Abseil's C++ Tips</a>
+* <a href="http://www.1024cores.net/" target="_blank">1024 Cores</a>* <a href="https://mechanical-sympathy.blogspot.in/" target="_blank">Mechanical Sympathy</a>
 
 ### CppCon Videos
 * <a href="https://youtu.be/nXaxk27zwlk" target="_blank">CppCon 2015: Chandler Carruth "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!</a>
