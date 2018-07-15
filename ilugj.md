@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Indian Linux Users Group Jammu
+title:  Indian Linux Users Group - Jammu
 ---
 
 Indian Linux Users Group - Jammu was founded in 2010 by Vishal Salgotra and Amit Sharma. It started as a platform to bring the revolution of FOSS in Jammu.
