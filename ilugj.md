@@ -10,5 +10,5 @@ If you are interested in reviving this group, please reach out to me or Amit Sha
 
 <a href="https://sites.google.com/site/ilugjammu/" target="_blank">Here is an older website of our Indian Linux Users Group - Jammu.</a>
 
-Thanks
+Thanks<br>
 Vishal
