@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Takri
+comments: true
 ---
 
 ```This page is maintained by Pankaj Khajuria```
