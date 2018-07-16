@@ -4,7 +4,7 @@ title:  Takri
 comments: true
 ---
 
-```This page is maintained by Pankaj Khajuria```
+```This page is authored by Pankaj Khajuria```
 <br>
 
 # 13 July 1931: The Great Game Changer
