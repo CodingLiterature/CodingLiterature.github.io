@@ -13,8 +13,8 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.excerpt | replace: '<p>' | replace: '</p>' }}
-        <a href="{{ post.url }}"> more...</a><br><br>
+    {{ post.excerpt | replace: '<p>' | replace: '</p>' }} <br>
+        <a href="{{ post.url }}"> more...</a><br>
   </div>
   {% endfor %}
 </div>
