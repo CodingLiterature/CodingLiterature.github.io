@@ -16,7 +16,7 @@ History has it’s an own importance on the society and regions. As we all know 
 ## “The study of any historical event is left trepid without knowing the cause, intent, motives and characters of the participants”. – Pankaj Khajuria.
 
 Therefore, it is very important for us to understand the cause, intent, motives, and characters of any historical event.
-13 July 1931, is one of the major historical events of Jammu Kashmir.  It is the landmark day in the history and had a revolutionary effect on the Social-Politica and Economic conditions of Jammu Kashmir. It had completely shattered the Dogras and their identity.  It is the GREAT GAME CHANGER of the Jammu Kashmir history.  This Game had coined the despotic oppressive word for Maharaja Hari Singh Ji and the Cruel for Dogras. On the other hand, Martyred word had been coined for Kashmiris. But if we ‘decode’ the whole historical event by cause, intent, motives and characters, then the things will be different. There are the four major Characters of this Great Game:
+13 July 1931, is one of the major historical events of Jammu Kashmir.  It is the landmark day in the history and had a revolutionary effect on the Social-Political and Economic conditions of Jammu Kashmir. It had completely shattered the Dogras and their identity.  It is the GREAT GAME CHANGER of the Jammu Kashmir history.  This Game had coined the despotic oppressive word for Maharaja Hari Singh Ji and the Cruel for Dogras. On the other hand, Martyred word had been coined for Kashmiris. But if we ‘decode’ the whole historical event by cause, intent, motives and characters, then the things will be different. There are the four major Characters of this Great Game:
 
 - British
 - Press
