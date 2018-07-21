@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: takriPost
 title:  13 July 1931 - The Great Game Changer
 tags : Takri
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: takriPost
 title:  Jammu Dilemma
 tags : Takri
 comments: true
