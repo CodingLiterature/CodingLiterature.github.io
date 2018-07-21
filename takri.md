@@ -13,8 +13,9 @@ title: Takri
             <a href="{{post.url}}"> {{post.title}} </a>
         </h1>
         
-        <span class="tpost-date">{{ post.date | date_to_string }}</span>
-        <br>
+        <!--
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+        -->
         {{ post.excerpt | replace: '<p>' | replace: '</p>' }} <br>
             <a href="{{ post.url }}"> more...</a><br>
     </div>
