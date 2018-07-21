@@ -3,7 +3,6 @@ layout: post
 title: Future of Information Technology
 tags: [ Thoughts ]
 comments : true
-categories : defCategory
 excerpt_separator: <!--more-->
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: Nobody Really Uses an Operating System 
 tags: [ Thoughts ]
 comments : true
-categories : defCategory
 excerpt_separator: <!--more-->
 ---
 
