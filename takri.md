@@ -14,6 +14,7 @@ title: Takri
         </h1>
         
         <span class="tpost-date">{{ post.date | date_to_string }}</span>
+        <br><br>
         {{ post.excerpt | replace: '<p>' | replace: '</p>' }} <br>
             <a href="{{ post.url }}"> more...</a><br>
     </div>
