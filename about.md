@@ -18,7 +18,8 @@ Feel free to leave your comments, especially if you spot an error, or to share e
 
 
 # About the Author
-You can contact me by sending an [e-mail](mailto:salgotra.vishal@gmail.com).
+Hi! My name is Vishal Salgotra. I am coding in C++ since 2003. I have spent significant time on large C++ codebases of Gaming, HFT and Investment Banks. I am happy to take feedback, don't hesitate to drop a commment on a post.
+You can also contact me by sending an [e-mail](mailto:salgotra.vishal@gmail.com).
 
 Also, you can learn more about me on below platforms:
 
