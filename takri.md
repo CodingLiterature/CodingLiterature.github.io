@@ -23,3 +23,5 @@ title: Takri
     {% endif %}
 {% endfor %}
 </div>
+
+```This page is authored by Pankaj Khajuria.```
