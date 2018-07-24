@@ -24,4 +24,5 @@ title: Takri
 {% endfor %}
 </div>
 
+<br>
 ```This page is authored by Pankaj Khajuria.```
