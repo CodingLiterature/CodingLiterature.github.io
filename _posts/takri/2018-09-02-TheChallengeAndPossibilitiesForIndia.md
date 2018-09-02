@@ -6,6 +6,7 @@ comments: true
 categories: takri
 excerpt_separator: <!--more-->
 ---
+
 On the 10th anniversary of India-USA Civil Nuclear Cooperation, a 2+2 dialogue is going to be held at Delhi on 6 Sep 2018. No doubt, the much-awaited dialogue has its importance for India, where as earlier it was postponed by America. The meeting will be concerned on Geopolitics Strategy, Defence Cooperation and Global Security. From Indian side, it will be represented by foreign minister Smt Sushma Swaraj and Defence Minister Smt Nirmala Sitharaman and their counterparts are State Secretary Mike Pompeo and Defence Secretary Jim Mattis.
 <!--more-->
 
