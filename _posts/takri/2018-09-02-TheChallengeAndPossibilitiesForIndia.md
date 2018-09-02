@@ -1,6 +1,6 @@
 ---
 layout: takriPost
-title:  2+2 : The Challenge and the Posibilities for India
+title:  2+2 The Challenge and the Posibilities for India
 tags : Takri
 comments: true
 categories: takri
