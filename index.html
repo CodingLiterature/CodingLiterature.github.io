@@ -5,7 +5,9 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {% unless post.categories contains 'takri' %}
+    {% if post.categories contains 'takri' %}
+    <!-- Do Nothing -->
+    {% else %}
     <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -17,7 +19,7 @@ title: Home
     {{ post.excerpt | replace: '<p>' | replace: '</p>' }} <br>
         <a href="{{ post.url }}"> more...</a><br>
     </div>
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 </div>
 
