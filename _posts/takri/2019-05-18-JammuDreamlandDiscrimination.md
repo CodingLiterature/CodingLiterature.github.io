@@ -1,6 +1,6 @@
 ---
 layout: takriPost
-title: Jammu - Dreamland turnded into a land of Discrimination
+title: Jammu - Dreamland turned into a land of Discrimination
 tags : Takri
 comments: true
 categories: takri
