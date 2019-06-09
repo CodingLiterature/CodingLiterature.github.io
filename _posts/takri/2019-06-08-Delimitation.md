@@ -32,6 +32,4 @@ Recently Omar Abdullah and other valley leader expressed surprise and said, righ
 
 Why Do BJP brought delimitation into an active role? We all know BJP unable to abolish the 370 and 35A, which is also not possible in real sense. At the same time, BJP knows people are unhappy with their local leaders. So they brought delimitation, it gives an edge to BJP over Cong and NC regional Autonomy theory.
 
-
-![im](/path/to/image.jpg){:class="img-responsive"}
-<img src="/asset/delimitation_chart.png" alt="shit! image not found">
+<img src="/asset/delimitation_chart.png" alt="delimitation chart not found.">
